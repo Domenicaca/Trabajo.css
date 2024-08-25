@@ -1,0 +1,34 @@
+.numero{
+    background-color: green;
+    height: 400px;
+    width: 300px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top:150px
+    }
+    .uno{
+    position: relative;
+    top:30px;
+    left:35px;
+    width:232px;
+    height:335px;
+    background-color:white;
+    }
+    .dos{
+    position: relative;
+    top:25px;
+    left:25px;
+    width:180px;
+    height:285px;
+    background-color:#efb810;
+    }
+    .tres{
+    height: 40px;
+    width: 208px;
+    margin-top:95px;
+    margin-left:280px;
+    margin-bottom: 100px;
+    margin-right:50px;
+    background-color: blueviolet;
+    }
